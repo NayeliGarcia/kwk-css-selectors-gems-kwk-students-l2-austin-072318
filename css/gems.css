@@ -34,7 +34,7 @@
   left: 200px;
 }
 
-img[alt="diamond"]{
+img[alt="diamond"] {
   position: absolute;
   z-index: 3;
   top: 300px;
